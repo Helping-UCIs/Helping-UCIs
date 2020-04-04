@@ -29,6 +29,7 @@ Proteína C. Reactiva (real)
 Fibrinógeno (real)
 
 Rx de Tórax (Datos definidos):
+    
     (*Sugestivos*)
     -opacidad focal
     -Tenue opacidad focal
