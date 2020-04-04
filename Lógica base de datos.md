@@ -11,7 +11,7 @@ Temperatura (real)
 
 Dias o fecha del inicio (int) o (date)
 
-Dia de plateamiento de UCI (date)
+Necesita respirador (Si/No)
 
 Presión arterial sistólica (int)
     (120 normal/140 hipertensión | 3 veces al dia)
