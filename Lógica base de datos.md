@@ -67,4 +67,4 @@ Saturación de oxígeno (real)
 #### AÑADIDOS
         
        - Casilla delegable con (DNI, Pasaporte, Otro)
-       - 
+       - Casilla default null para meter los datos de identidad
