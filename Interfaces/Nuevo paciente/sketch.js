@@ -28,17 +28,25 @@ function isValidID(idType, id){
 }
 
 
-function isValidDato(dataType, ...data){
+function isValidData(dataType, ...data){
     switch(dataType){
         case "Temperatura":
+            // Temp: double
         case "Presión Arterial":
-            //2 valores: Sistólica y diastólica
+            //2 valores: Sistólica: double y diastólica: double
         case "Ferritina":
+            //Ferritina: double
         case "Dimero D":
+            //Dimero D: double
         case "Linfocitos":
+            //Linfocitos: int
         case "Proteina C":
+            //Proteína C: double
         case "Fibrinogeno":
+            //Fibrinogeno: double
         case "Saturación Oxígeno":
+            //Satu oxi: double
         case "RX Torax":
+            //PENDIENTE POR DETERMINAR
     }
 }
