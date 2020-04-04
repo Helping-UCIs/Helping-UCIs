@@ -13,6 +13,12 @@ Dias o fecha del inicio (int) o (date)
 
 Necesita respirador (Si/No)
 
+Género (char)
+
+Peso (real)
+
+Altura (real)
+
 Presión arterial sistólica (int)
     (120 normal/140 hipertensión | 3 veces al dia)
 
