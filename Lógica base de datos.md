@@ -73,7 +73,7 @@ Saturación de oxígeno (real)
         -Ventilación mecánica
         
         
-#### AÑADIDOS
+#### EXTRAS A DEBATIR
         
        - Casilla delegable con (DNI, Pasaporte, Otro)
        - Casilla default null para meter los datos de identidad
