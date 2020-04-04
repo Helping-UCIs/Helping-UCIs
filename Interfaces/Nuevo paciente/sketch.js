@@ -1,6 +1,6 @@
 /**
- * 
- * @param {string} id - String con el tipo de id elegido
+ * @param {String} idType - String con el tipo de id elegido
+ * @param {String} id - Contenido con el ID (ej DNI: "26324869Y")
  */
 
 function isValidID(idType, id){
@@ -21,8 +21,24 @@ function isValidID(idType, id){
             //No sé cómo es el formato :S
             return true;
         case "Otro":
-            return false;//Borrar cuando se sepa el id del textbox
+            return false; //Borrar cuando se sepa el id del textbox
             //return document.getElementById(/* ID del texbox */).value != "";
     }
     return false; //Si llega aquí no es ninguno de los anteriores.
+}
+
+
+function isValidDato(dataType, ...data){
+    switch(dataType){
+        case "Temperatura":
+        case "Presión Arterial":
+            //2 valores: Sistólica y diastólica
+        case "Ferritina":
+        case "Dimero D":
+        case "Linfocitos":
+        case "Proteina C":
+        case "Fibrinogeno":
+        case "Saturación Oxígeno":
+        case "RX Torax":
+    }
 }
