@@ -12,12 +12,13 @@ function isValidID(idType, id){
             let letra = ["T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E"];
             let numero = parseInt(id.substring(0, id.length - 1));
             let letraDNI = id.substring(id.length - 1).toUpperCase(); //Pasa a mayúsculas
-            return letra[numero % letra.length] == letraDNI;
+            return letra[numero % letra.length] == letraDNI;//Si es válido
         case "Pasaporte":
-            return /^[A-Z][0-9]{8}$/.test(id);//Regex expression
+            return /^[A-Z][0-9]{8}$/.test(id); //Regex expression
         case "NIE":
-
+            return /^[XYZ]\d{7,8}[A-Z]$/.test(id); //Regex expression
         case "Nº Seguridad Social":
+            //No sé cómo es el formato :S
             return true;
         case "Otro":
             return false;//Borrar cuando se sepa el id del textbox
