@@ -29,7 +29,6 @@ Proteína C. Reactiva (real)
 Fibrinógeno (real)
 
 Rx de Tórax (Datos definidos):
-    
     (*Sugestivos*)
     -opacidad focal
     -Tenue opacidad focal
@@ -63,3 +62,9 @@ Saturación de oxígeno (real)
         -Mascarilla con reservorio
         -Optiflow
         -Ventilación mecánica
+        
+        
+#### AÑADIDOS
+        
+       - Casilla delegable con (DNI, Pasaporte, Otro)
+       - 
