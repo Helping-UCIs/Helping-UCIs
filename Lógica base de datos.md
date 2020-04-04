@@ -13,7 +13,7 @@ Dias o fecha del inicio (int) o (date)
 
 Necesita respirador (Si/No)
 
-Genero (char)
+Género (char)
 
 Peso (real)
 
