@@ -2,7 +2,6 @@
  * @param {String} idType - String con el tipo de id elegido
  * @param {String} id - Contenido con el ID (ej DNI: "26324869Y")
  */
-
 function isValidID(idType, id){
     switch(idType){
         case "DNI":
@@ -26,6 +25,7 @@ function isValidID(idType, id){
     }
     return false; //Si llega aquí no es ninguno de los anteriores.
 }
+
 
 
 function isValidData(dataType, ...data){
