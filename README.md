@@ -26,7 +26,7 @@ Salud y personas
 
 ## Breve descripción de quienes sois:
 Somos estudiantes de Telecomunicaciones en la ETSIT UPM, Madrid.
-Gonzalo: Diseño de bases de datos y programación en Java.
+Gonzalo Núñez Muñoz (portavoz y fuck): Diseño de bases de datos y programación en Java.
 Iván Pérez Doña: Edición de Vídeo y programación en Python.
 Lázaro Cantos García: Edición de Vídeo y programación en Python.
 Marta Morán Garrido: Desarrollo de GUI y edición de vídeo.
