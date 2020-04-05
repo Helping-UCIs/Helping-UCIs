@@ -1,6 +1,6 @@
 # Guión del Vídeo:
 
-Primero tenemos que poner los problemas, que irían en la parte de las noticias
+Primero tenemos que poner los problemas, que irían en la parte de las noticias.
 
 ## Problemas:
 - La gran cantidad de contagios en poco tiempo satura el sistema
