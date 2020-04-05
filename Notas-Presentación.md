@@ -53,3 +53,30 @@ QUÉ ENTREGAR:
 
 Hacer hoy: Definir problema + sol
 Mañana: Desarrollar prototipo
+
+
+
+# Día 2:
+
+Mirar canal de Recursos adicionales en Mattermost.
+
+Objetivo de hoy:
+    
+    -Terminar de Definir nuestras ideas.
+    -Terminar lo de ayer.
+    -Adaptavilidad a otros casos.
+    -Capitalizar recursos disponibles.
+    -Validaciones: Preguntar a la people qué opinan de nuestro proyecto y feedback. 
+     (Mirar el canal de recursos adicionales) (NO ES OBLIGATORIO)
+
+Dejar claro en la presentación cómo nuestro proyecto cumple todos los requisitos de el concurso.
+
+Cuantas más cosas se entreguen, no te puntua más. Lo único que cuenta es la idea.
+
+(MIRAR CRITERIOS DE EVALUACIÓN)
+
+
+#### Prototipo: (No obligatorio)
+
+-Desde un dibujo a una maqueta o versión de prueba (no tiene que ser funcional).
+
