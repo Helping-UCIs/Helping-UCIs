@@ -30,4 +30,12 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias.
 
 ## Cómo puede se puede adaptar cuando acabe esta crisis sanitaria
 - Debido a que la tabla principal no tiene parámetros específicos para ninguna con crear las tablas correspondientes a los parámetros importantes para cada una de las enfermedades tratadas de forma habitual sería suficente.
-- El software que vincularía la app con la bbd con un par de cambios triviales sería suficiente.
+- El software que vincula la app con la bbd con un par de cambios triviales será suficiente.
+- La bdd será fácilmente adaptable al estudio de otras patologías previas.
+
+
+
+
+
+=> La tecnología usada para este proyecto nos permite adaptarnos a cualquier circunstancia.
+Esto es debido a que tanto base de datos, como el algoritmo y los formularios se puede adaptar datos o situaciones de cualquier naturaleza.
