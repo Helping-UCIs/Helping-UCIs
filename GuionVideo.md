@@ -24,5 +24,5 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias.
 - Estudio de parámetros médicos.
 - Creación de una base de datos => Información de cada paciente.
 - Aprendizaje de la bdd utilizando árboles de decisión 
-       -Dar estimaciones de evolución a los pacientes de nuevo ingreso.
+       -Estimaciones de evolución de los pacientes de nuevo ingreso.
 - Aplicación de escritorio fácil e intuitiva conectada directamente con la bdd utilizando un programa de conexión entre app y bdd.
