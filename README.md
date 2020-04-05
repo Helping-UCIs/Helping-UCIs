@@ -41,9 +41,11 @@ A la hora de evaluar a quién dar prioridad hay que tener en cuenta muchos datos
 
 
 ## Cómo lo resuelve:
- Nuestro proyecto propone unificar las bases de datos de todos los hospitales nacionales para manejar y distribuir los pacientes en las UCIs de la manera más eficiente posible. De esta manera, nuestro sistema permite priorizar los casos más críticos y distribuir a todos los pacientes posibles en los hospitales cercanos.
- Para ello, nuestro sistema nos permite selecionar a los pacientes más graves de manera rápida y efeciente.
-
+ Nuestro proyecto propone unificar las bases de datos de todos los hospitales nacionales para manejar y distribuir los pacientes en las UCIs de la manera más eficiente posible. De esta manera, nuestro sistema permite mostrar los casos más críticos. 
+ 
+ Una vez obtenidos, el personal sanitario elige la selección final de pacientes y deriva el resto al resto de clínicas de la comunidad hospitalaria. 
+ 
+ Para ello, nuestro sistema nos permite selecionar a los pacientes más graves de manera rápida y efeciente haciendo uso de aprendizaje inductivo. Mediante el uso de Árboles de decisión y de
 
 
 ## Enlace al proyecto de taiga:
