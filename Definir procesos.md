@@ -18,11 +18,11 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias
 
     - Crear una herramienta fácil de usar e intuitiva.
 
-	- Asesoramiento estadístico (Datos tratados mediante machine learning )
+	- Asesoramiento estadístico (Datos tratados mediante machine learning y sacar conclusiones a partir de los resultados)
 
+    - 
 
-
-
+    - 
 
 
 
