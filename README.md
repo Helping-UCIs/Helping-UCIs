@@ -26,14 +26,14 @@ Salud y personas
 
 ## Breve descripción de quienes sois:
 Somos estudiantes de Telecomunicaciones en la ETSIT UPM, Madrid.
-Gonzalo Núñez Muñoz (portavoz y fucking hugo bosh): Diseño de bases de datos y programación en Java.
+Gonzalo Núñez Muñoz (portavoz): Diseño de bases de datos y programación en Java.
 Iván Pérez Doña: Edición de Vídeo y programación en Python.
 Lázaro Cantos García: Edición de Vídeo y programación en Python.
 Marta Morán Garrido: Desarrollo de GUI y edición de vídeo.
-Pilar López Bodoque: Desarrollo de GUI.
-Jorge Re González: Manejo de Linux y programación en Python y JavaScript.
+Pilar López Bodoque: Desarrollo de GUI y búsqueda de información.
+Jorge Re González: Manejo de Linux, programación en Python y JavaScript.
 Víctor Fresno Gómez: Base de datos y programación en Java.
-Daniel Alonso Ecenarro: programación y conocimientos teóricos avanzados.
+Daniel Alonso Ecenarro: Programación y conocimientos teóricos avanzados.
 
 ## Problema que resuelve vuestro proyecto:
 Ante la saturación en el sistema sanitario, las UCIs están colapsadas y muchos pacientes que necesitan atención médica urgente no pueden acceder a estos servicios con la rapidez necesaria.
@@ -41,11 +41,13 @@ A la hora de evaluar a quién dar prioridad hay que tener en cuenta muchos datos
 
 
 ## Cómo lo resuelve:
- Nuestro proyecto propone unificar las bases de datos de todos los hospitales nacionales para manejar y distribuir los pacientes en las UCIs de la manera más eficiente posible. De esta manera, nuestro sistema permite mostrar los casos más críticos. 
+Nuestro proyecto propone unificar las bases de datos de todos los hospitales nacionales para manejar y distribuir los pacientes en las UCIs de la manera más eficiente posible. De esta manera, nuestro sistema permite mostrar los casos más críticos. 
+
+Una vez obtenidos, el personal sanitario elige la selección final de pacientes y deriva el resto al resto de clínicas de la comunidad hospitalaria. 
  
- Una vez obtenidos, el personal sanitario elige la selección final de pacientes y deriva el resto al resto de clínicas de la comunidad hospitalaria. 
- 
- Para ello, nuestro sistema nos permite selecionar a los pacientes más graves de manera rápida y efeciente haciendo uso de aprendizaje inductivo. Mediante el uso de Árboles de decisión y de
+Para ello, nuestro sistema nos permite selecionar a los pacientes más graves de manera rápida y efeciente haciendo uso de aprendizaje inductivo.
+Haciendo uso de una interfaz gráfica para que sea lo más intuitivo posible, un formulario nos permitirá añadir y modificar cualquier paciente y todos los parámetros referidos a su salud.
+Mediante el uso de Árboles de decisión, nuestra inteligencia artificial analizará los datos almacenados en la base de datos
 
 
 ## Enlace al proyecto de taiga:
