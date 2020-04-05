@@ -27,5 +27,7 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias.
     -Estimaciones de evolución de los pacientes de nuevo ingreso.
 - Aplicación de escritorio fácil e intuitiva conectada directamente con la bdd utilizando un programa de conexión entre app y bdd.
 
+
 ## Cómo puede se puede adaptar cuando acabe esta crisis sanitaria
-- Deb
+- Debido a que la tabla principal no tiene parámetros específicos para el Covid-19 con crear las tablas correspondientes a los parámetros importantes para cada una de las enfermedades tratadas de forma habitual sería suficente.
+- El software que vincularía la app con la bbd con un par de cambios triviales sería suficiente.
