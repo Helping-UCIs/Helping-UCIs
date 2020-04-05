@@ -52,7 +52,7 @@ A la hora de evaluar a quién dar prioridad hay que tener en cuenta muchos datos
 ## Cómo lo resuelve:
 Nuestro proyecto propone unificar las bases de datos de todos los hospitales nacionales para manejar y distribuir los pacientes en las UCIs de la manera más eficiente posible. De esta manera, nuestro sistema permite mostrar los casos más críticos. Una vez obtenidos, el personal sanitario elige la selección final de pacientes y deriva el resto al resto de clínicas de la comunidad hospitalaria. 
  
-Para ello, nuestro sistema nos permite selecionar a los pacientes más graves de manera rápida y efeciente haciendo uso de aprendizaje inductivo.
+Para ello, nuestro sistema nos permite seleccionar a los pacientes más graves de manera rápida y eficiente haciendo uso de aprendizaje inductivo.
 
 Haciendo uso de una interfaz gráfica para que sea lo más intuitivo posible, un formulario nos permitirá añadir y modificar cualquier paciente y todos los parámetros referidos a su salud.
 
