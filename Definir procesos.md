@@ -20,11 +20,11 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias
 
 	- Asesoramiento estadístico (Datos tratados mediante machine learning y sacar conclusiones a partir de los resultados)
 
-    - 
+    - Descongestionar las UCIs 
 
     - 
 
-
+    - 
 
 
 
