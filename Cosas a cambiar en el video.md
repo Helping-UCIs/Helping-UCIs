@@ -1,6 +1,7 @@
 # Cosas a cambiar:
 
-- Seg 18: Subir un poco el 3º párrafo (Falta de análisis...) para que haya la misma distancia entre los 3 y no se tape con la barra de abajo (del Reproductor de vídeo)
+
 - Seg 18: Revisar fondo  pueesto que no se puede leer bien.
-- Seg 31: Tilde en Médicos
-- 
+- 48: Parpadeos raros
+- 1:11: Mover a la derecha poco el 3º párrafo para que esté en línea con los otros dos encima.
+- 1:22: Alargar la duración de las frases
