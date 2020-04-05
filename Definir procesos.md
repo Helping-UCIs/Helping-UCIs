@@ -3,7 +3,7 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias
 
 #### Problemas:
     - Desbordamiento de UCIs
-    - 
+    - Falta de tiempo para analizar de forma muy precisa los datos de los pacientes
     - Dificultad para tener en cuenta todos los datos de los pacientes (gran cantidad)
     - Problemas de organización en planta.
 
