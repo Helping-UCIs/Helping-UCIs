@@ -3,10 +3,9 @@
 Primero tenemos que poner los problemas, que irían en la parte de las noticias.
 
 ## Problemas:
-- La gran cantidad de contagios en poco tiempo satura el sistema
-- Desbordamiento de UCIs
-- Falta de tiempo para analizar de forma muy precisa los datos de los pacientes
-- Dificultad para tener en cuenta todos los datos de los pacientes (gran cantidad)
+- Muchos contagios en poco tiempo => Saturación
+- Desbordamiento UCIs.
+- Analizar los datos de los pacientes => Tiempo y dificil de manejar
 - Problemas de organización en planta.
 
 ## Objetivos:
