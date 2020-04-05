@@ -1,2 +1,0 @@
-# Cosas a cambiar:
-
