@@ -58,6 +58,8 @@ Haciendo uso de una interfaz gráfica para que sea lo más intuitivo posible, un
 
 Mediante el uso de Árboles de decisión, nuestra inteligencia artificial analizará los datos almacenados en el servidor y nos proporcionará toda la información necesaria para poder tomar decisiones de manera rápida y así salvar más vidas.
 
+Además, el uso de esta tecnología permite adaptarse a cualquier situación actual o a futuro.
+
 
 ## Enlace al proyecto de taiga:
 https://taiga.vencealvirus.software.imdea.org/project/gonsi-helping-ucis/
