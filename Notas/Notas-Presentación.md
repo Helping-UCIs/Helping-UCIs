@@ -79,7 +79,3 @@ Cuantas más cosas se entreguen, no te puntua más. Lo único que cuenta es la i
 #### Prototipo: (No obligatorio)
 
 -Desde un dibujo a una maqueta o versión de prueba (no tiene que ser funcional).
-
-
-# Notas preseleccionados:
-Van a pasar a Gonsi un link para pedir un diploma certificando que hemos hecho esto (Nos elijan o no).
